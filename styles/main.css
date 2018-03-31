@@ -1,3 +1,15 @@
 body {
     background: rgba(233, 130, 71, 0.897) ;
+
+}
+
+h1 {
+    color: rgb(116, 101, 245);
+    text-transform: uppercase
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
 }
