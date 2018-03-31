@@ -4,11 +4,12 @@ body {
 }
 h1 {
     color: rgb(7, 180, 248);
+    font-family: Arial, Helvetica, sans-serif ;
     text-transform: uppercase
 }
 
 p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif ;
     font-size: 30px;
     text-align: center;
 }
