@@ -7,6 +7,9 @@ h1 {
     font-family: Arial, Helvetica, sans-serif ;
     text-transform: uppercase
 }
+.url {
+    cursor: url(http://www.rw-designer.com/icon-view/4557.png),auto;
+}
 
 p {
     font-family: Arial, Helvetica, sans-serif ;
