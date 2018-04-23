@@ -16,3 +16,5 @@ p {
     font-size: 30px;
     text-align: center;
 }
+
+flex-flow: <‘flex-direction’> || <‘flex-wrap’>
