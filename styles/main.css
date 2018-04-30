@@ -1,0 +1,111 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 300px) {
+
+}
+
+.top {
+    background-color:  rgba(84, 168, 207, 0.925);
+}
+
+.heading {
+    padding: 10px;
+    padding-top: 30px;
+    color:rgb(190, 55, 78);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5em;
+    text-align: center;
+
+}
+
+.intro {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25em;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+
+.row {
+    display: -webkit-flex;
+    display:flex;
+    width: 100%;
+    padding: 0.625em;
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25em;
+    font-weight: bold;
+    color: rgb(40, 38, 116);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: burlywood;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(190, 55, 78);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(40, 38, 116);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:rgb(190, 55, 78);
+}
+
+.blogs {
+    float: left;
+    overflow: hidden;
+}
+
+.container {
+    background-color:rgb(190, 55, 78);
+}
+
+.image {
+    width: 100%
+}
+
+.bloglist {
+    background-color: red
+}
+
+
+}
